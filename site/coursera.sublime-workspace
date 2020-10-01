@@ -8,10 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "indexx.html",
+			"file": "module2.html",
 			"settings":
 			{
-				"buffer_size": 117,
+				"buffer_size": 116,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -49,6 +49,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/JOHN/coursera-test/site/restaurant.html",
+		"/C/Users/JOHN/coursera-test/site/restaurant site",
 		"/C/Users/JOHN/coursera-test/site/coursera-siteredo",
 		"/C/Users/JOHN/coursera-test/site/coursera.html",
 		"/C/Users/JOHN/coursera-test/site/coursera.sublime-workspace",
@@ -92,19 +94,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "indexx.html",
+					"file": "module2.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 116,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								101,
-								101
+								98,
+								98
 							]
 						],
 						"settings":
