@@ -11,7 +11,7 @@
 			"file": "module2.html",
 			"settings":
 			{
-				"buffer_size": 116,
+				"buffer_size": 1648,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -98,15 +98,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 116,
+						"buffer_size": 1648,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								99,
+								99
 							]
 						],
 						"settings":
