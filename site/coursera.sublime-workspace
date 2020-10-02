@@ -8,21 +8,15 @@
 	"buffers":
 	[
 		{
-			"file": "module2.html",
+			"contents": "body{background-color: gray}\nh2{text-align: right}\nh3{text-align: right}\nh4{text-align: right}",
+			"file": "styles.css",
+			"file_size": 100,
+			"file_write_time": 132461077467928221,
 			"settings":
 			{
-				"buffer_size": 1656,
+				"buffer_size": 94,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "html",
-			"settings":
-			{
-				"buffer_size": 4,
-				"line_ending": "Windows",
-				"name": "html"
 			}
 		}
 	],
@@ -58,6 +52,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/JOHN/coursera-test/site/styles.css",
 		"/C/Users/JOHN/coursera-test/site/restaurant.html",
 		"/C/Users/JOHN/coursera-test/site/restaurant site",
 		"/C/Users/JOHN/coursera-test/site/coursera-siteredo",
@@ -98,57 +93,29 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "module2.html",
+					"file": "styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1656,
+						"buffer_size": 94,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								113,
-								113
+								26,
+								28
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 100.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4,
-								4
-							]
-						],
-						"settings":
-						{
-							"auto_name": "html",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
