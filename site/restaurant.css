@@ -2,10 +2,10 @@
 
 
 
-*{box-sizing: border-box;margin: 0px; padding 0px}
+*{box-sizing:border-box;margin: 0px; padding 0px}
 
 
- body{background-color:pink;}
+ body{background-color:yellow;}
 
  
 #heading{align-items: center;}
@@ -19,19 +19,19 @@
 
  #content{background-color: blue;font-size: 9;}
 
- #box3{background-color: blue;padding:10x 30x 10x 30x;
- 	border:1px solid black;width:400px;height:200px;float: right;margin: 20px}
+ #box3{background-color: blue;padding:10x 30x 10x 30x;border:
+ 	1px solid black;width:400px;height:200px;float: right;margin: 20px}
 
 
 #box6{background-color: orange;width:105px;border:
  1px solid black;}
 
-#box2{background-color: blue;padding:10x 30x 10x 30x;
-	border:1px solid black;width:400px;height :200px;float: right;margin-top: 20px;}
+#box2{background-color: blue;padding:10x 30x 10x 30x;border:
+	1px solid black;width:400px;height:200px;float: right;margin: 20px;}
 
 
 #box5{background-color: orange;width: 105px;border: 
-	1px solid black ;}
+1px solid black;}
 
 </css>
  
