@@ -14,7 +14,7 @@
  	1px solid black;width:400px;height: 200px;float: right;margin: 20px}
 
  #box4{background-color:orange;width:105px;border:
-  1px solid black;margin-top:0px; margin-bottom: 5px;margin-left: 8px}
+  1px solid black;margin-top:0px; margin-bottom: 5px;margin-left: 390px}
  
 
  #content{background-color: blue;font-size: 9;}
@@ -27,11 +27,11 @@
  1px solid black;margin-top: 0px; margin-bottom: 5px;margin-left: 8px}
 
 #box2{background-color: blue;padding:10x 30x 10x 30x;border:
-	1px solid black;width:400px;height:200px;float: right;margin: 20px;}
+	1px solid black;width:400px;height:200px;float: right;margin: 390px;}
 
 
 #box5{background-color: orange;width: 105px;border: 
-1px solid black;margin-top: 0px; margin-bottom: 5px;margin-left: 8px}
+1px solid black;margin-top: 0px; margin-bottom: 5px;margin-left: 390px}
 
 </css>
  
