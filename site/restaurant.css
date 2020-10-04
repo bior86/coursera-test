@@ -5,10 +5,11 @@
 *{box-sizing:border-box;margin: 0px; padding 0px}
 
 
+
  body{background-color:green;}
 
  
-#heading{alignment-baseline: : center;}
+#heading{position:  : center;}
 
  #box{background-color: blue;padding: 10x 30x 10x 30x;border: 
  	1px solid black;width:400px;height: 200px;float: right;margin: 20px}
