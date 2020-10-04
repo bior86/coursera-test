@@ -10,22 +10,28 @@
  
 
 
- #box{background-color: blue;padding: 10x 30x 10x 30x;border: 1px solid black; width:300px;height: 200px;margin-top:50px;}
+ #box{background-color: blue;padding: 10x 30x 10x 30x;border: 
+ 	1px solid black; width:400px;height: 200px;margin-top:50px;}
 
- #box4{background-color:orange;width:105px;border: 1px solid black;padding-top: 0px}
+ #box4{background-color:orange;width:105px;border:
+  1px solid black;padding-top: 0px;box-sizing: border-box;}
  
 
  #content{background-color: blue;font-size: 9;}
 
- #box3{background-color: blue;padding:10x 30x 10x 30x;border:1px solid black;width:400px;height:200px;margin-top: 50px;}
+ #box3{background-color: blue;padding:10x 30x 10x 30x;
+ 	border:1px solid black;width:400px;height:200px;margin-top: 50px;}
 
 
-#box6{background-color: orange;width:105px;border: 1px solid black;text-align-right;}
+#box6{background-color: orange;width:105px;border:
+ 1px solid black;text-align-right;box-sizing: border-box;}
 
-#box2{background-color: blue;padding:10x 30x 10x 30x;border:1px solid black;width:400px;height :200px;margin-top: 50px;}
+#box2{background-color: blue;padding:10x 30x 10x 30x;
+	border:1px solid black;width:400px;height :200px;margin-top: 50px;}
 
 
-#box5{background-color: orange;width: 105px;border: 1px solid black ;text-align:center,}
+#box5{background-color: orange;width: 105px;border: 
+	1px solid black ;text-align:center,border-box}
 
 </css>
  
