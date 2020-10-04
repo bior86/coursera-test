@@ -5,7 +5,7 @@
 *{box-sizing: border-box;margin: 0px; padding 0px}
 
 
- body{background-color:white;}
+ body{background-color:pink;}
 
  
 #heading{align-items: center;}
@@ -14,24 +14,24 @@
  	1px solid black; width:400px;height: 200px;float: right;margin: 20px}
 
  #box4{background-color:orange;width:105px;border:
-  1px solid black;box-sizing:padding 0px; border-box;float: right}
+  1px solid black;}
  
 
  #content{background-color: blue;font-size: 9;}
 
  #box3{background-color: blue;padding:10x 30x 10x 30x;
- 	border:1px solid black;width:400px;height:200px;margin-top: 50px;float: right;margin: 20px}
+ 	border:1px solid black;width:400px;height:200px;float: right;margin: 20px}
 
 
 #box6{background-color: orange;width:105px;border:
- 1px solid black;text-align-right;box-sizing: border-box;}
+ 1px solid black;}
 
 #box2{background-color: blue;padding:10x 30x 10x 30x;
-	border:1px solid black;width:400px;height :200px;margin-top: 50px;}
+	border:1px solid black;width:400px;height :200px;float: right;margin-top: 20px;}
 
 
 #box5{background-color: orange;width: 105px;border: 
-	1px solid black ;text-align:center,border-box}
+	1px solid black ;}
 
 </css>
  
