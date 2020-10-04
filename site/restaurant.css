@@ -5,7 +5,7 @@
 *{box-sizing: border-box;margin: 0px, padding 0px}
 
 
- body{background-color:yellow;}
+ body{background-color:gray;}
 
  
 #heading{align-items: center;}
@@ -14,7 +14,7 @@
  	1px solid black; width:400px;height: 200px;margin-top:50px;float: right;margin: 20px}
 
  #box4{background-color:orange;width:105px;border:
-  1px solid black;padding-top: 0px;box-sizing: border-box;}
+  1px solid black;padding-top: 0px;box-sizing: border-box;float: right}
  
 
  #content{background-color: blue;font-size: 9;}
