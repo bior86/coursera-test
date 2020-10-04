@@ -2,19 +2,19 @@
 
 
 
-*{box-sizing: border-box;margin: 0px, padding 0px}
+*{box-sizing: border-box;margin: 0px; padding 0px}
 
 
- body{background-color:gray;}
+ body{background-color:white;}
 
  
 #heading{align-items: center;}
 
  #box{background-color: blue;padding: 10x 30x 10x 30x;border: 
- 	1px solid black; width:400px;height: 200px;margin-top:50px;float: right;margin: 20px}
+ 	1px solid black; width:400px;height: 200px;float: right;margin: 20px}
 
  #box4{background-color:orange;width:105px;border:
-  1px solid black;padding-top: 0px;box-sizing: border-box;float: right}
+  1px solid black;box-sizing:padding 0px; border-box;float: right}
  
 
  #content{background-color: blue;font-size: 9;}
