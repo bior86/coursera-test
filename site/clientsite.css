@@ -1,6 +1,6 @@
 body {font-size: 16px;color: black;background-color: green;font-family:oxygen;}
 
-#header-nav{background-color: orange;border-radius: 0px;border: 0px;padding-top: 0px;margin-top: 0px}
+#header-nav{background-color: orange;border-radius: 0px;border: 0px;padding: 0;margin-top: 0px}
 
 .navbar-brand {padding-top: 25px;}
 
@@ -8,4 +8,4 @@ body {font-size: 16px;color: black;background-color: green;font-family:oxygen;}
 
 .navbar-brand a:hover, .navbar a:focus {text-decoration: none}
 
-.navbar-brand p {color: black;text-transform: uppercase;font-size: 10;margin-top: 15px;}
+.navbar-brand p {color: black;text-transform: uppercase;font-size: 6;margin-top: 15px;}
