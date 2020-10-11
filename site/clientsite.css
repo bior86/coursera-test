@@ -12,7 +12,7 @@ body {font-size: 16px;color: black;background-color: green;font-family:oxygen;}
 
 #nav-list {margin-top: 10px}
 
-#nav-list a{color:black;text-align: center;}
+#nav-list a{color:black;text-align: right;}
 
 #nav-list a:hover{background: white}
 
